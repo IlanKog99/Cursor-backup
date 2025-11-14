@@ -1,0 +1,30 @@
+{
+    "window.zoomLevel": 2,
+    "editor.fontSize": 18,
+    "python.createEnvironment.trigger": "off",
+    "cursor.composer.textSizeScale": 1.15,
+    "cursor.cpp.enablePartialAccepts": true,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "cursor.cpp.disabledLanguages": [
+        "markdown"
+    ],
+    "files.autoSave": "onFocusChange",
+    "cursor.composer.queueMessageDefaultBehavior": "queue",
+    "window.commandCenter": true,
+    "diffEditor.hideUnchangedRegions.enabled": true,
+    "terminal.integrated.suggest.quickSuggestions": {
+
+        "commands": "on",
+        "arguments": "on",
+        "unknown": "off"
+    },
+    "cursor.composer.backspaceRemoveContext": false,
+    "git.autoRepositoryDetection": "subFolders",
+    "git.confirmSync": false,
+    "cursor.composer.usageSummaryDisplay": "always",
+    "git.enableSmartCommit": true,
+    "editor.mouseWheelZoom": true,
+    "git.autofetch": true
+
+}

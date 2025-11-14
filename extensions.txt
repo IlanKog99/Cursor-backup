@@ -1,0 +1,8 @@
+usernamehw.errorlens
+GitHub.vscode-pull-request-github
+ms-python.python
+ms-python.vscode-pylance
+ms-python.debugpy
+ms-vscode-remote.remote-ssh
+ms-vscode-remote.remote-wsl
+
